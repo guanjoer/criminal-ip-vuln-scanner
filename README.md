@@ -35,7 +35,7 @@ To get started with this project, clone the repository and install the required 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/criminal-ip-vulnerability-scanner.git
+   git clone https://github.com/mrguanjo/criminal-ip-vuln-scanner.git
    cd criminal-ip-vuln-scanner
    ```
 2. Install the dependencies:
