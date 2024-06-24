@@ -21,7 +21,7 @@ def is_connection(api_key):
     }
 
     res = requests.request("POST", url, headers=headers, data=payload)
-    res_data = res.json() # Get JSOM Format
+    res_data = res.json() # Get JSON Format
 
     if res_data['status'] == 200:
         return True

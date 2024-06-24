@@ -1,6 +1,6 @@
 # Criminal IP Vulnerability Scanner
 
-This is a Python-based **Vulnerability Scanner** using the `Criminal IP API` to gather and display information about a specified IP address. It provides details such as **Location**, **ISP**, **VPN**, **Inbound** and **Outbound** scores, **Open Ports**, **Products** Information and **Vulnerabilities**.
+This is a Python-based **Vulnerability Scanner** using the `Criminal IP API` to gather and display information about a specified IP address. It provides details such as **Location**, **ISP**, **VPN**, **Inbound** and **Outbound** scores, **Open Ports**, **Serivices** Information and **Vulnerabilities**.
 
 
 ## Example Output
