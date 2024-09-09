@@ -1,31 +1,31 @@
-# Criminal IP Vulnerability Scanner
+# Criminal IP API OSINT
 
-This is a Python-based **Vulnerability Scanner** using the [Criminal IP API](https://www.criminalip.io/ko/developer/api/post-user-me) to gather and display information about a specified IP address. It provides details such as **Location**, **ISP**, **VPN**, **Inbound** and **Outbound** scores, **Open Ports**, **Serivices** Information and **Vulnerabilities**.
+This is a Python-based **OSINT** using the [Criminal IP API](https://www.criminalip.io/ko/developer/api/post-user-me) about specified IP address.
 
+## Output Information
+
+- **Location**
+- **ISP**
+- **VPN(True/False)**
+- **Inbound Score**
+- **Outbound Score**
+- **Open Ports**
+- **Services**
+- **Vulnerabilities**
 
 ## Example Output
 
 **Summary:**
 
-<img src="./images/summary.PNG">
+<img src="./images/summary.PNG" width="70%">
 
 **Open Ports:**
 
-<img src="./images/open-ports.PNG">
+<img src="./images/open-ports.PNG" width="70%">
 
 **Vulnerabilites:**
 
-<img src="./images/vulnerabilites.PNG">
-
-
-## Features
-
-- Fetch and display IP address details
-- Retrieve and show location information
-- Show ISP and VPN usage status
-- Display inbound and outbound security scores
-- List open ports and associated services
-- Display vulnerabilities associated with the IP address
+<img src="./images/vulnerabilites.PNG" width="70%">
 
 
 ## Installation
