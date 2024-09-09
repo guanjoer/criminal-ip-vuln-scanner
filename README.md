@@ -30,13 +30,11 @@ This is a Python-based **OSINT** using the [Criminal IP API](https://www.crimina
 
 ## Installation
 
-To get started with this project, clone the repository and install the required dependencies.
-
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mrguanjo/criminal-ip-vuln-scanner.git
-   cd criminal-ip-vuln-scanner
+   git clone https://github.com/guanjoer/osint-criminalip-api.git
+   cd osint-criminalip-api
    ```
 2. Install the dependencies:
 
@@ -51,7 +49,7 @@ To get started with this project, clone the repository and install the required 
 
 To run the application, execute the following command:
 
-`streamlit run criminal-ip-vuln-scanner.py`
+`streamlit run osint_criminalip_api.py`
 
 This will start a local web server, and you can access the application by navigating to http://localhost:8501 in your web browser.
 
